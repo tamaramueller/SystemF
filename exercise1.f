@@ -250,15 +250,3 @@ opened_gates_builtin = λg:∃G::*=>*=>*. Gates G.
     (λg:G Bool Bool.unit)
     (plug [G] g [Bool] [Bool] [Bool] (not [G] g) (not [G] g))
 ;
-
-
-## Finally, it would be helpful to know how long you spent on this
-## exercise.  There is no obligation to answer this question if you would
-## prefer not to!  I plan to use the information provided to improve the
-## course, and will not distribute the information further except possibly
-## in anonymised form.  (E.g. I would like to produce and perhaps share
-## aggregate statistics such as the range, median, variance, etc., but
-## will not identify any individual student.)
-## 
-## How many hours did you spend on this exercise?
-##   50
